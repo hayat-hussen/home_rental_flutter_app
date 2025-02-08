@@ -75,7 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
       HomePage(),
       BookedPage(),
       NotificationPage(),
-      Accountpage(),
+      AccountPage(),
     ];
   }
 
